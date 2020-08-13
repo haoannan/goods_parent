@@ -14,6 +14,7 @@ public class Test {
     private String b;
     private String c;
     private String d;
+    private String e;
 
     public static void main(String[] args) {
         int a = 10;
