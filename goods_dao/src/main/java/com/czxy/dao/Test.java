@@ -16,6 +16,7 @@ public class Test {
     private String d;
     private String e;
     private String f;
+    private String aa;
 
     public static void main(String[] args) {
         int a = 10;
