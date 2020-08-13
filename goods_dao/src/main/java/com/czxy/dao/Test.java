@@ -22,4 +22,9 @@ public class Test {
         System.out.println(a);
     }
 
+    public void test01(){
+        a="lalal";
+        System.out.println(a);
+    }
+
 }
