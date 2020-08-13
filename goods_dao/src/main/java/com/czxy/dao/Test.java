@@ -7,5 +7,5 @@ package com.czxy.dao;
  */
 public class Test {
 
-
+    private String a;
 }
